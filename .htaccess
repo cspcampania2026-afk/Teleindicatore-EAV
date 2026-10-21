@@ -1,0 +1,4 @@
+Options -Indexes
+<FilesMatch "^(csp_core\.php|eav_source\.php|monitor\.php|admin_tools\.html|admin_dashboard\.html|operations\.php|communications\.php|percorsi\.json|corse_linee\.json|stazioni\.csv|LEGGIMI\.md)$">
+  Require all denied
+</FilesMatch>

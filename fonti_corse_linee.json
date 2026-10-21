@@ -1,0 +1,19 @@
+{
+  "checked": "2026-10-16",
+  "method": "Numero Treno / Train Number rows, both directions. Shared trains removed from Torre shuttle list.",
+  "sources": {
+    "old_L1": "https://www.eavsrl.it/download/orario-ferrovia-l1-napoli-sorrento-valido-dal-1-ottobre-2026/?wpdmdl=58826&refresh=6ad27d173e2cd1792179479",
+    "old_L4": "https://www.eavsrl.it/download/orari-ferrovia-l4-napoli-torre-annunziata-poggiomarino-in-vigore-dal-1-giugno/?wpdmdl=25586&refresh=6ad27d17404721792179479",
+    "old_L6": "https://www.eavsrl.it/download/orario-ferrovia-l6-napoli-ottaviano-sarno-dal-09-dicembre-2025/?wpdmdl=36870&refresh=6ad27d1741d2e1792179479",
+    "old_L8": "https://www.eavsrl.it/download/orario-ferrovia-l8-volla-baiano-dal-08-dicembre-2025/?wpdmdl=37969&refresh=6ad27d17436011792179479",
+    "new_L1": "https://www.eavsrl.it/download/orario-ferrovia-l1-napoli-sorrento-dal-17-ottobre-2026/?wpdmdl=59432&refresh=6ad27d1754efa1792179479",
+    "new_TORRE": "https://www.eavsrl.it/download/orario-ferrovia-l1-napoli-torre-annunziata-dal-17-ottobre-2026/?wpdmdl=59453&refresh=6ad27d17568f51792179479",
+    "new_L4": "https://www.eavsrl.it/download/orario-ferrovia-l4-napoli-poggiomarino-dal-17-ottobre-2026/?wpdmdl=59433&refresh=6ad27d17581641792179479",
+    "new_L6": "https://www.eavsrl.it/download/orario-ferrovia-l6-napoli-ottaviano-sarno-dal-17-ottobre-2026/?wpdmdl=59434&refresh=6ad27d1759ca51792179479",
+    "new_L8": "https://www.eavsrl.it/download/orario-ferrovia-l8-volla-nola-baiano-dal-17-ottobre-2026/?wpdmdl=59435&refresh=6ad27d17604ff1792179479"
+  },
+  "counts": {
+    "before_20261017": 222,
+    "from_20261017": 280
+  }
+}
